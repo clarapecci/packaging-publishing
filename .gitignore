@@ -1,1 +1,3 @@
 #can ask copilot to write a standard gitignore file 
+venv/
+*.lock
